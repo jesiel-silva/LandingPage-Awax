@@ -32,7 +32,7 @@ header {
 
 
 /* Header logo */
-.logoimg {
+.logo {
     width: 80px;
     height: 80px;
     display: flex;
@@ -41,8 +41,12 @@ header {
     font-size: 3rem;
 }
 
-.logoimg span {
+.logo a{
     color: #B28756;
+}
+
+.logo span{
+    color: #fff;
 }
 
 
